@@ -1,16 +1,32 @@
-### Hi there 👋
+### 👋 안녕하세요! 
 
-<!--
-**cw00h/cw00h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+안녕하세요! 😊 저는 기술을 통해 타인을 돕고 싶은 **최우혁(@cw00h)** 입니다.   
+저는 **[서울대학교](https://snu.ac.kr) [전기정보공학부](https://ee.snu.ac.kr/)** 에 소속되어 컴퓨터 분야를 공부하고 있습니다.   
+현재는 21년 2월부터 21년 8월까지 여수에서 **국방의 의무**를 다하고 있습니다. 
 
-Here are some ideas to get you started:
+### ✨ 흥미
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+저는 **컴퓨터**를 공부하고, **컴퓨터**를 이용해 무언갈 만들어내는 것을 좋아합니다.   
+그동안은 대학에서 자료구조, 알고리즘 같은 학부 과목만 공부했지만, 이제는 컴퓨터 세계를 직접 더 깊게 탐험하고 싶어요! 🚀
+
+### 📞 연락 방법
+
+[Instagram](https://instagram.com/cw00h), [github](https://github.com/cw00h), [Naver Blog](https://blog.naver.com/00cwooh), 혹은 [Gmail](mailto:cwooh8@gmail.com)을 통해 저에게 연락을 주시면 감사하겠습니다.
+
+* * *
+
+### 👋 Hello!
+
+Hi! 😊 My name is **Woo hyuk Choi**.   
+My dream is to help people in world using technology.   
+I'm learning from **[Electrical & Computer Engineering major](http://ee.snu.ac.kr/en)** at **[Seoul National University](https://en.snu.ac.kr/)** in Seoul, South Korea.   
+I'm currently serving my **military duty** for my country until August 2022.
+
+### ✨ What I'm interested in
+
+I love to study **computer science** & make something using **computer**.   
+In the meantime, I only studied basic subjects like data structure and algorithm at university, but now I want to **explore the computer world deeper** by myself! 🚀
+
+### 📞 How to contact
+
+Please contact me through [Instagram](https://instagram.com/cw00h), [github](https://github.com/cw00h), [Naver Blog](https://blog.naver.com/00cwooh), or [Gmail](mailto:cwooh8@gmail.com).
