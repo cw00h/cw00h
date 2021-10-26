@@ -6,7 +6,7 @@ Hi! 😊 My name is **Woo hyuk Choi**. I want to help people in world using tech
 
 I was learning from **[Electrical & Computer Engineering major](http://ee.snu.ac.kr/en)** at **[Seoul National University](https://en.snu.ac.kr/)** in Seoul, South Korea. ⚡   
 I'm currently serving my **military duty** for my country until August 2022.   
-Check out [**my blog**](https://cw00h.github.io), too!
+If you want more information about me, please check out [**my blog**](https://cw00h.github.io), too!
 
 ### ✨ What I'm interested in
 
