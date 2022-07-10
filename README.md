@@ -10,8 +10,7 @@ If you want more information about me, please check out [**my blog**](https://cw
 
 ### ✨ What I'm interested in
 
-I love to study **computer science** & make something using **computer**.   
-I'm a **junior developer**, so I don't know a lot of things... But I want to **explore the computer world deeper** by myself! 🚀
+I’m intersted in information security. 🛡️
 
 ### 📞 How to contact
 
